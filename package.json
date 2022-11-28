@@ -1,0 +1,13 @@
+{
+  "name": "my-class-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nishikaru <mdsajed001@gamil.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":"json-server --watch ./db.json --no-cors true --port 5000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "classes": [
+    {
+      "className": "hello",
+      "id": 1
+    },
+    {
+      "className": "world",
+      "id": 2
+    },
+    {
+      "className": "",
+      "id": 3
+    }
+  ]
+}
